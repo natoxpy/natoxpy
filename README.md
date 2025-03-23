@@ -1,1 +1,2 @@
-# Hello there 👋, probably working on something right now, check out what I actually *probably* finished. 
+# Hello there 👋
+I'm a dude working on whatever sounds the most fun, check out my repos down there 👇
