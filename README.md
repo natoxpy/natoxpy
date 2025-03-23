@@ -1,1 +1,1 @@
-# Hello there, probably working on smt right now, check out what I actually, kinda, almost finished. 
+# Hello there 👋, probably working on something right now, check out what I actually *probably* finished. 
